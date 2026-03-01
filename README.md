@@ -10,6 +10,5 @@
 - Keyboard shortcut (tekan R untuk reset)
 
 ## 🚀 Cara Install
-1. Clone repository
-   ```bash
-   git clone https://github.com/username/tictactoe.git
+1. 1. Buka link: https://mehimolothloth-glitch.github.io/Tic-Tac-Toe/
+2. Langsung mainkan!
