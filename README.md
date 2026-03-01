@@ -11,4 +11,4 @@
 
 ## 🚀 Cara Install
 1. 1. Buka link: https://mehimolothloth-glitch.github.io/Tic-Tac-Toe/
-2. Langsung mainkan!
+2. Monggo Dimainkan!
